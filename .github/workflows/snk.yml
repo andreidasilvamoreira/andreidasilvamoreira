@@ -1,0 +1,28 @@
+name: Generate Pacman Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # a cada 6h
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: andreidasilvamoreira
+          outputs: |
+            ./output/pacman-contribution-graph.svg
+            ./output/pacman-contribution-graph-dark.svg
+
+      - name: Commit e Push dos SVGs
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: atualiza gráfico pacman
+          add: 'output/*.svg'

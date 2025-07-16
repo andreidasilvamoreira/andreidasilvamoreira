@@ -1,32 +1,95 @@
-## 👋 Hello! Welcome to my Github profile
-😊My name is Andrei,  I am a high school student, I intend to major in systems analysis and development (ADS) and my goal is to get a job in the field.
+<h2 align="center">Hello👋! Welcome to my Github profile!</h2>
 
- ## 🔧 skills
-- **Languages**: PHP, SQL, HTML, CSS3, JS
--  **Framework with knowledge**: Laravel
--  **knowledge**: Mysql, PostgreSQL, POO, SGBD e API
-- **Tools and Technologies**: Git
-- **Methodologies**: Scrum e Kanban
+###
 
-## 📕Studying <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="60" height="60" /><p>
+<p align="left">😊My name is Andrei, I am a university student, I intend to major in systems analysis and development (ADS) and my goal is to get a job in the field.</p>
 
-## 📘I have some knowledge with:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60"/>
+###
 
-📞Contact: <br>
+<h2 align="left">🔧 skills</h2>
 
-<div>
-<a href="https://www.youtube.com/channel/UCRieizGqSnqT5FNkpYIhxeA"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/andreimoreira0/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/andrei-da-silva-moreira-54b160248/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+###
+
+<p align="left">- Languages: PHP, SQL, HTML, CSS3, JS<br>- Framework with knowledge: Laravel<br>- knowledge: Mysql, PostgreSQL, POO, SGBD e API<br>- Tools and Technologies: Git<br>-Methodologies: Scrum e Kanban</p>
+
+###
+
+<h2 align="left">📕Studying:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-<p></p>
 
-<div>
-<a href="https://github.com/andreidasilvamoreira">
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreidasilvamoreira&layout=compact&langs_count=7&theme=dracula"/>
+###
+
+<h2 align="left">📘Tenho algum conhecimento com:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+###
 
+<h2 align="left">📞Contato:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/andrei-da-silva-moreira-54b160248/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/andreimoreira0/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTd2ZmsxMWZpbnZ3czMzNWE5MTdldW04emRkcjFodThreGdjeDBhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I1yi8IW1ecKvvuQuNW/giphy.gif"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreidasilvamoreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreidasilvamoreira/andreidasilvamoreira/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreidasilvamoreira/andreidasilvamoreira/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andreidasilvamoreira/andreidasilvamoreira/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app?username=andreidasilvamoreira&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###

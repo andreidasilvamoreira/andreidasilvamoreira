@@ -32,7 +32,8 @@
 
 ###
 
-<h2 align="left">📘Tenho algum conhecimento com:</h2>
+<h2 align="left">📘I have some knowledge of:
+</h2>
 
 ###
 
@@ -52,7 +53,7 @@
 
 ###
 
-<h2 align="left">📞Contato:</h2>
+<h2 align="left">📞Contact:</h2>
 
 ###
 

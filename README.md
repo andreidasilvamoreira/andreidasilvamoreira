@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">😊My name is Andrei, I am a university student, I intend to major in systems analysis and development (ADS) and my goal is to get a job in the field.</p>
+<p align="left">😊My name is Andrei, I'm a university student, I intend to major in systems analysis and development (ADS) and my goal is to get a job in the field.</p>
 
 ###
 

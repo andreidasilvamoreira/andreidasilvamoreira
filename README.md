@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Languages: PHP, SQL, HTML, CSS3, JS<br>- Framework with knowledge: Laravel<br>- knowledge: Mysql, PostgreSQL, POO, SGBD e API<br>- Tools and Technologies: Git<br>-Methodologies: Scrum e Kanban</p>
+<p align="left">- Languages: PHP, SQL, HTML, CSS3, JS<br>- Framework with knowledge: Laravel<br>- knowledge: Mysql, PostgreSQL, POO, SGBD e API<br>- Tools and Technologies: Git<br> -Methodologies: Scrum e Kanban</p>
 
 ###
 

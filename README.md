@@ -1,83 +1,83 @@
-<h1 align="center">Hello👋! Welcome to my Github profile!</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00E5FF&height=120&section=header"/>
 
-###
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=40&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Andrei;Backend+Developer;NestJS+%7C+Laravel+%7C+PostgreSQL;Clean+Architecture+%7C+APIs+%7C+SQL)](https://git.io/typing-svg)
 
-<p align="left">😊My name is Andrei, I'm a university student, I intend to major in systems analysis and development (ADS) and my goal is to get a job in the field.</p>
+</p>
 
-###
-
-<h2 align="left">🔧 skills</h2>
-
-###
-
-<p align="left">- Languages: PHP, SQL, HTML, CSS3, JS<br>- Framework with knowledge: Laravel<br>- knowledge: Mysql, PostgreSQL, POO, SGBD e API<br>- Tools and Technologies: Git<br>- Methodologies: Scrum e Kanban</p>
-
-###
-
-<h2 align="left">📕Studying:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<div align="center"> 
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andreidasilvamoreira&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+  
 </div>
 
-###
+<h2 align="center">Backend Developer focused on APIs, Databases and Clean Architecture</h2>
 
-<h2 align="left">📘I have some knowledge of:
-</h2>
+<h2 align="start">🚀 About me</h2>
+<p align="start">
+- Backend developer focused on APIs and databases<br>
+- Experience with Node.js, NestJS, Laravel and SQL<br>
+- Studying Software Engineering<br>
+- Interested in Backend, Data Engineering and System Design
+</p>
+<h2 align="center">🧠 Tech Stack</h2>
 
-###
+<div align="center">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+<p>Main Skills</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70"/>
+
+<p>Tools</p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70"/>
+
 </div>
 
-###
+<h2 align="start">📂 Projects</h2>
 
-<h2 align="left">📞Contact:</h2>
+- Project Manager API (NestJS + PostgreSQL)  
+- Laravel Restaurant API  
+- Fullstack Ecommerce (React + Laravel)  
+- Backend CRUD APIs with SQL  
 
-###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/andrei-da-silva-moreira-54b160248/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/andreimoreira0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
-</div>
+<h2 align="center">📊 Activity</h2>
 
-###
+<p align="center">
 
-<div align="left">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTd2ZmsxMWZpbnZ3czMzNWE5MTdldW04emRkcjFodThreGdjeDBhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I1yi8IW1ecKvvuQuNW/giphy.gif"  />
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andreidasilvamoreira&bg_color=0d1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-###
+</p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreidasilvamoreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
 
-###
+<h2 align="center">📊 Stats</h2>
 
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=andreidasilvamoreira&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreidasilvamoreira&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+
+<h2 align="center">📞 Contact</h2>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/andrei-da-silva-moreira-54b160248/">
+<img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0D1117&height=120&section=footer"/>

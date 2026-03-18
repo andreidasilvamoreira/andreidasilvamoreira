@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00E5FF&height=120&section=header"/>
 
-<p align="center">
+<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=40&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Andrei;Backend+Developer;NestJS+%7C+Laravel+%7C+PostgreSQL;Clean+Architecture+%7C+APIs+%7C+SQL)](https://git.io/typing-svg)
 
-</p>
+</div>
 
 <div align="center"> 
   
@@ -12,20 +12,41 @@
   
 </div>
 
-<h2 align="center">Backend Developer focused on APIs, Databases and Clean Architecture</h2>
+<div align="center">
 
-<h2 align="start">🚀 About me</h2>
-<p align="start">
-- Backend developer focused on APIs and databases<br>
-- Experience with Node.js, NestJS, Laravel and SQL<br>
-- Studying Software Engineering<br>
-- Interested in Backend, Data Engineering and System Design
-</p>
-<h2 align="center">🧠 Tech Stack</h2>
+## Backend Developer focused on APIs, Databases and Clean Architecture
+
+</div>
+
+<br>
 
 <div align="center">
 
-<p>Main Skills</p>
+## 🚀 Profile
+
+</div>
+
+<br>
+
+<p align="start">
+- Backend developer focused on APIs, SQL and system organization<br>
+- Experience with Node.js, NestJS, Laravel, PostgreSQL and MySQL<br>
+- Studying Software Engineering and improving backend architecture skills<br>
+- Interested in backend development, data engineering and system design
+</p>
+
+<br>
+
+<div align="center">
+
+## 🧠 Main Skills
+
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="70"/>
@@ -35,22 +56,45 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70"/>
 
-<p>Tools</p>
+<br><br>
 
+<div align="center">
+
+## 🔧 Tools
+
+</div>
+
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70"/>
 
 </div>
 
-<h2 align="start">📂 Projects</h2>
+<br>
+
+<div align="center">
+
+## 📂 Projects
+
+</div>
+
+<br>
 
 - Project Manager API (NestJS + PostgreSQL)  
 - Laravel Restaurant API  
 - Fullstack Ecommerce (React + Laravel)  
 - Backend CRUD APIs with SQL  
 
+<div align="center">
 
-<h2 align="center">📊 Activity</h2>
+## 📊 Activity
+
+</div>
+
 
 <p align="center">
 
@@ -58,8 +102,11 @@
 
 </p>
 
+<div align="center">
 
-<h2 align="center">📊 Stats</h2>
+## 📊 Stats
+
+</div>
 
 <p align="center">
 
@@ -69,13 +116,47 @@
 
 </p>
 
+<div align="center">
 
-<h2 align="center">📞 Contact</h2>
+## 📞 Contact
+
+</div>
+
+<br>
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/andrei-da-silva-moreira-54b160248/">
+<a href="https://www.linkedin.com/in/andrei-da-silva-moreira-54b160248/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="mailto:andreidasilvamoreira14@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br>
+</p>
+
+<div align="center">
+  
+<br>
+
+## Social media
+
+</div>
+
+<p align="center">
+
+<a href="https://www.instagram.com/andreimoreira0/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5562993513125" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@andrei.moreira.ez" target="_blank">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 </p>
